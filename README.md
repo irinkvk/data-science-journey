@@ -7,4 +7,5 @@ I am focusing on:
 - Python programming
 - Data Analysis
 - Machine Learning
+  
 This repository will contain my learning progress, exercises, and future projects during my studies.
